@@ -1,0 +1,7 @@
+server:
+  port: 30002
+info:
+  app:
+    name: hackathon-team3
+    description: Team3 application
+    version: 1.0.0
